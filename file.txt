@@ -6,3 +6,7 @@ hello!
 //develop 4
 
 //hotfix
+
+//major-feature1
+//major-feature2
+//major-feature3
