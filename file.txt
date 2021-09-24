@@ -15,3 +15,4 @@ hello!
 //release2
 
 //major-feature4
+//major-feature5
