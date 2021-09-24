@@ -12,3 +12,4 @@ hello!
 //major-feature3
 
 //release1
+//release2
